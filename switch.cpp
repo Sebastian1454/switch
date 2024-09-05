@@ -7,15 +7,15 @@ void getDayName(int day){
     switch (day){
 
 case 1:
-cout << "Sunday" << endl;
+cout << "Sunday." << endl;
 break;
 
 case 2:
-cout << "Monday" << endl;
+cout << "Monday." << endl;
 break;
 
 case 3:
-cout << "Tuesday" << endl;
+cout << "Tuesday." << endl;
 break;
 
 case 4:
